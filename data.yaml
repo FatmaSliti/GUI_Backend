@@ -1,0 +1,58 @@
+name: fatma
+name: fatma
+early_request_timeout: d
+lane_id: d
+lane_name: g
+lane_type: d
+early_request_timeout: '98'
+lane_id: '12'
+lane_name: fatma
+lane_type: '56'
+early_request_timeout: '69'
+lane_id: '36'
+lane_name: Henda
+lane_type: C
+early_request_timeout: dl
+lane_id: ld
+lane_name: dkd
+lane_type: dl
+Username: admin
+camera_id: '123456'
+camera_ip: 192.168.1.100
+camera_model: Model XYZ
+camera_name: Camera 1
+camera_port: '8080'
+category: Category A
+linked_lane: Lane 1
+password: password123
+soft_trigger: Enabled
+camera_id: sl
+camera_ip: sl
+camera_model: s
+camera_name: hds
+camera_port: sl
+category: s
+linked_lane: p
+password: sk
+soft_trigger: l
+username: sk
+camera_id: '78'
+camera_ip: ks
+camera_model: s
+camera_name: gdsh
+camera_port: ls
+category: s
+linked_lane: s
+password: s
+soft_trigger: ss
+username: s
+camera_id: dms
+camera_ip: sl
+camera_model: ks
+camera_name: ks
+camera_port: sl
+category: sk
+linked_lane: sk
+password: '1254'
+soft_trigger: s,
+username: Fatma Henda
